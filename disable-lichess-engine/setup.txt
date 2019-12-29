@@ -1,3 +1,3 @@
-First download my-ublock-static-filters_2019-12-29_10.30.03.txt then install the Ublock Origin extension. <br>
-Open the Ublock Origin dashboard go to My Filters and click "import and append". <br>
+First download my-ublock-static-filters_2019-12-29_10.30.03.txt then install the Ublock Origin extension.
+Open the Ublock Origin dashboard go to My Filters and click "import and append".
 Select the file "my-ublock-static-filters_2019-12-29_10.30.03.txt"
