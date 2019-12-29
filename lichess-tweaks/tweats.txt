@@ -1,0 +1,27 @@
+lichess.org##.features > button.fbt:nth-of-type(2)
+lichess.org##.setting
+lichess.org##.setting.abset-infinite
+lichess.org##.setting.abset-shapes
+lichess.org##.setting.abset-gauge
+lichess.org##.eval-gauge
+lichess.org##.pv
+lichess.org##.ceval
+lichess.org##.setting.abset-all
+lichess.org##.text.button
+lichess.org##.analyse__underboard__menu > .active.computer-analysis
+lichess.org##.analyse__underboard__menu > .computer-analysis
+lichess.org##div:nth-of-type(1) > .clock
+lichess.org##div:nth-of-type(1) > .perf
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(1)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(2)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(3)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(4)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(5)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(6)
+lichess.org##.lpools.lobby__app__content > div:nth-of-type(7)
+lichess.org##.tabs-horiz > span:nth-of-type(3)
+lichess.org##a.game.empty:nth-of-type(2)
+lichess.org##a.game.empty:nth-of-type(1)
+lichess.org##a.game.empty:nth-of-type(5)
+lichess.org##.mselect__label
+lichess.org##.form-check-input > label
