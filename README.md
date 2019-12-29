@@ -5,5 +5,7 @@
 [Best Players](http://andromeda3.xyz/chessplayers.html) - Best Chess players to study
 
 ## disable-lichess-engine
-I recommend doing this because it completely removes the temptation of just being able to click the button and getting <br>
-some esoteric meaningless evaluation.
+This allows you to completely remove the engine from the analysis board and the "Request a Computer Analysis" features from lichess.
+
+## lichess-classical
+This allows you to remove the quick play tiles for the non-classical time formats.
