@@ -3,4 +3,4 @@
 3. Click on the "My Filters" tab.
 4. Copy the contents of classical.txt and paste it into "My Filters" on the uBlock Orign dashboard
 
-![no-bullet](https://raw.githubusercontent.com/3XPL017/Chess/master/images/no-bullet.PNG)
+![no-bullet](https://raw.githubusercontent.com/3XPL017/Chess/master/lichess-classical/classical.PNG)
