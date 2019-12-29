@@ -10,3 +10,4 @@ lichess.org##.ceval
 lichess.org##.setting.abset-all
 lichess.org##.text.button
 lichess.org##.analyse__underboard__menu > .active.computer-analysis
+lichess.org##.analyse__underboard__menu > .computer-analysis
