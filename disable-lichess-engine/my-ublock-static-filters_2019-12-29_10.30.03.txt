@@ -8,3 +8,5 @@ lichess.org##.eval-gauge
 lichess.org##.pv
 lichess.org##.ceval
 lichess.org##.setting.abset-all
+lichess.org##.text.button
+lichess.org##.analyse__underboard__menu > .active.computer-analysis
